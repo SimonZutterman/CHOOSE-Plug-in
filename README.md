@@ -1,4 +1,14 @@
 CHOOSE-Plug-in
 ==============
 
-The resulting CHOOSE Graphical Editor plug-in  of my master's thesis: building a graphical editor based on the CHOOSE approach (Prof.Dr.G.Poels &amp; M.Beernaert), using the Eclipse Graphical Modeling Framework
+This .zip file contains the necessary jar artifacts to install the CHOOSE plug-in into Eclipe. 
+
+1) Download the .zip
+2) In Eclipse, go to Help->Install New Software...
+3) Add...
+4) Archive...
+5) search the .zip file on your system
+6) install the CHOOSE plug-in
+7) shut down Eclipse and restart
+
+***The resulting graphical editor from S.Zutterman's Master Thesis at University Ghent - Faculty of Business and Economics. "Development of a tool for business architecture modeling in Eclipse" (S.Zutterman; Prof.Dr.G.Poels; M.Beernaert***
