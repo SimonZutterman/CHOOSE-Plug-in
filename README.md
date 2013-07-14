@@ -17,4 +17,4 @@ This .zip file contains the necessary jar artifacts to install the CHOOSE plug-i
 
 7) shut down Eclipse and restart
 
-***The resulting graphical editor from S.Zutterman's Master Thesis at University Ghent - Faculty of Business and Economics. "Development of a tool for business architecture modeling in Eclipse" (S.Zutterman; Prof.Dr.G.Poels; M.Beernaert***
+***The resulting graphical editor from S.Zutterman's Master Thesis at University Ghent - Faculty of Business and Economics. "Development of a tool for business architecture modeling in Eclipse" (S.Zutterman; Prof.Dr.G.Poels; M.Bernaert***
